@@ -26,3 +26,5 @@
 б) <img src = "https://render.githubusercontent.com/render/math?math=(1/\sqrt{2},-1/\sqrt{2},0),(1/\sqrt{2},1/\sqrt{2},0), (0,0,1)">;  
 в) <img src = "https://render.githubusercontent.com/render/math?math=(1/2, -1/2, 0), (0, 1/2, 1/2), (0,0,1)">;  
 г) <img src = "https://render.githubusercontent.com/render/math?math=(1,0,0),(0,1,0),(0,0,1)">?  
+
+## Урок 2. Матрицы и матричные операции.
