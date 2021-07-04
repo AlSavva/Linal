@@ -42,5 +42,12 @@ __1.__ Установить, какие произведения матриц <i
     
    г) <img src = "https://render.githubusercontent.com/render/math?math=A"> — квадратная матрица <img src = "https://render.githubusercontent.com/render/math?math=4\times 4">, <img src = "https://render.githubusercontent.com/render/math?math=B"> — квадратная матрица <img src = "https://render.githubusercontent.com/render/math?math=4\times 4">.  
    
- __2.__ Найти сумму и произведение матриц <img src = "https://render.githubusercontent.com/render/math?math=A=\begin{pmatrix}1 & -2\\3 & 0\end{pmatrix}"> и <img src = "https://render.githubusercontent.com/render/math?math=B=\begin{pmatrix}4 & -1\\0 & 5\end{pmatrix}">.
+ __2.__ Найти сумму и произведение матриц <img src="https://render.githubusercontent.com/render/math?math=%24A%3D%5Cbegin%7Bpmatrix%7D%0A1%20%26%20-2%5C%5C%20%0A3%20%26%200%0A%5Cend%7Bpmatrix%7D%24"> и <img src="https://render.githubusercontent.com/render/math?math=%24B%3D%5Cbegin%7Bpmatrix%7D%0A4%20%26%20-1%5C%5C%20%0A0%20%26%205%0A%5Cend%7Bpmatrix%7D%24">.  
+ 
+ __3.__ Из закономерностей сложения и умножения матриц на число можно сделать вывод, что матрицы одного размера образуют линейное пространство. Вычислить линейную комбинацию <img src="https://render.githubusercontent.com/render/math?math=%243A-2B%2B4C%24"> для матриц <img src="https://render.githubusercontent.com/render/math?math=%24A%3D%5Cbegin%7Bpmatrix%7D%0A1%20%26%207%5C%5C%20%0A3%20%26%20-6%0A%5Cend%7Bpmatrix%7D%24">, <img src="https://render.githubusercontent.com/render/math?math=%24B%3D%5Cbegin%7Bpmatrix%7D%0A0%20%26%205%5C%5C%20%0A2%20%26%20-1%0A%5Cend%7Bpmatrix%7D%24">, <img src="https://render.githubusercontent.com/render/math?math=%24C%3D%5Cbegin%7Bpmatrix%7D%0A2%20%26%20-4%5C%5C%20%0A1%20%26%201%0A%5Cend%7Bpmatrix%7D%24">.  
+ 
+ __4.__ Дана матрица <img src="https://render.githubusercontent.com/render/math?math=%24A%3D%5Cbegin%7Bpmatrix%7D%0A4%20%26%201%5C%5C%20%0A5%20%26%20-2%5C%5C%20%0A2%20%26%203%0A%5Cend%7Bpmatrix%7D%24">.
+Вычислить <img src="https://render.githubusercontent.com/render/math?math=%24AA%5E%7BT%7D%24"> и <img src="https://render.githubusercontent.com/render/math?math=%24A%5E%7BT%7DA%24">.  
+
+__5*.__ Написать на Python функцию для перемножения двух произвольных матриц, не используя NumPy.
     
