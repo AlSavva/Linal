@@ -27,4 +27,20 @@
 в) <img src = "https://render.githubusercontent.com/render/math?math=(1/2, -1/2, 0), (0, 1/2, 1/2), (0,0,1)">;  
 г) <img src = "https://render.githubusercontent.com/render/math?math=(1,0,0),(0,1,0),(0,0,1)">?  
 
-## Урок 2. Матрицы и матричные операции.
+## Урок 2. Матрицы и матричные операции.  
+
+## Практическое задание к уроку 2. (Часть 1).  
+Все задания рекомендуется делать вручную, затем проверяя полученные результаты с использованием numpy.
+
+__1.__ Установить, какие произведения матриц <img src = "https://render.githubusercontent.com/render/math?math=AB"> и <img src = "https://render.githubusercontent.com/render/math?math=BA"> определены, и найти размерности полученных матриц:
+
+   а) <img src = "https://render.githubusercontent.com/render/math?math=A"> — матрица <img src = "https://render.githubusercontent.com/render/math?math=4\times 2">, <img src = "https://render.githubusercontent.com/render/math?math=B"> — матрица <img src = "https://render.githubusercontent.com/render/math?math=4\times 2">;
+    
+   б) <img src = "https://render.githubusercontent.com/render/math?math=A"> — матрица <img src = "https://render.githubusercontent.com/render/math?math=2\times 5">, <img src = "https://render.githubusercontent.com/render/math?math=B"> — матрица <img src = "https://render.githubusercontent.com/render/math?math=5\times 3">;
+    
+   в) <img src = "https://render.githubusercontent.com/render/math?math=A"> — матрица <img src = "https://render.githubusercontent.com/render/math?math=8\times 3">, <img src = "https://render.githubusercontent.com/render/math?math=B"> — матрица <img src = "https://render.githubusercontent.com/render/math?math=3\times 8">;
+    
+   г) <img src = "https://render.githubusercontent.com/render/math?math=A"> — квадратная матрица <img src = "https://render.githubusercontent.com/render/math?math=4\times 4">, <img src = "https://render.githubusercontent.com/render/math?math=B"> — квадратная матрица <img src = "https://render.githubusercontent.com/render/math?math=4\times 4">.  
+   
+ __2.__ Найти сумму и произведение матриц <img src = "https://render.githubusercontent.com/render/math?math=A=\begin{pmatrix}1 & -2\\3 & 0\end{pmatrix}"> и <img src = "https://render.githubusercontent.com/render/math?math=B=\begin{pmatrix}4 & -1\\0 & 5\end{pmatrix}">.
+    
