@@ -49,5 +49,41 @@ __1.__ Установить, какие произведения матриц <i
  __4.__ Дана матрица <img src="https://render.githubusercontent.com/render/math?math=%24A%3D%5Cbegin%7Bpmatrix%7D%0A4%20%26%201%5C%5C%20%0A5%20%26%20-2%5C%5C%20%0A2%20%26%203%0A%5Cend%7Bpmatrix%7D%24">.
 Вычислить <img src="https://render.githubusercontent.com/render/math?math=%24AA%5E%7BT%7D%24"> и <img src="https://render.githubusercontent.com/render/math?math=%24A%5E%7BT%7DA%24">.  
 
-__5*.__ Написать на Python функцию для перемножения двух произвольных матриц, не используя NumPy.
+__5*.__ Написать на Python функцию для перемножения двух произвольных матриц, не используя NumPy.  
+
+## Практическое задание к уроку 2. (Часть 2).  
+__1.__ Вычислить определитель:
+
+   a)
+
+<img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bpmatrix%7D%0Asinx%20%26%20-cosx%5C%5C%20%0Acosx%20%26%20sinx%0A%5Cend%7Bpmatrix%7D%24">;
+
+   б)
+    
+<img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bpmatrix%7D%0A4%20%26%202%20%26%203%5C%5C%20%0A0%20%26%205%20%26%201%5C%5C%20%0A0%20%26%200%20%26%209%0A%5Cend%7Bpmatrix%7D%24">;
+    
+   в)
+
+<img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bpmatrix%7D%0A1%20%26%202%20%26%203%5C%5C%20%0A4%20%26%205%20%26%206%5C%5C%20%0A7%20%26%208%20%26%209%0A%5Cend%7Bpmatrix%7D%24">.
+
+
+__2.__ Определитель матрицы <img src="https://render.githubusercontent.com/render/math?math=A"> равен <img src="https://render.githubusercontent.com/render/math?math=4">. Найти:
+
+   а) <img src="https://render.githubusercontent.com/render/math?math=%24det(A%5E%7B2%7D)%24">;
+    
+   б) <img src="https://render.githubusercontent.com/render/math?math=%24det(A%5E%7BT%7D)%24">;
+    
+   в) <img src="https://render.githubusercontent.com/render/math?math=%24det(2A)%24">.
+   
+__3.__  Доказать, что матрица
+
+<img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bpmatrix%7D%0A-2%20%26%207%20%26%20-3%5C%5C%20%0A4%20%26%20-14%20%26%206%5C%5C%20%0A-3%20%26%207%20%26%2013%0A%5Cend%7Bpmatrix%7D%24">
+   
+вырожденная.
+
+__4.__ Найти ранг матрицы:
+
+   а) <img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bpmatrix%7D%0A1%20%26%202%20%26%203%5C%5C%20%0A1%20%26%201%20%26%201%5C%5C%20%0A2%20%26%203%20%26%204%0A%5Cend%7Bpmatrix%7D%24">;
+
+   б) <img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bpmatrix%7D%0A0%20%26%200%20%26%202%20%26%201%5C%5C%20%0A0%20%26%200%20%26%202%20%26%202%5C%5C%20%0A0%20%26%200%20%26%204%20%26%203%5C%5C%20%0A2%20%26%203%20%26%205%20%26%206%0A%5Cend%7Bpmatrix%7D%24">.
     
