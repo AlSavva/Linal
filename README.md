@@ -87,3 +87,27 @@ __4.__ Найти ранг матрицы:
 
    б) <img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bpmatrix%7D%0A0%20%26%200%20%26%202%20%26%201%5C%5C%20%0A0%20%26%200%20%26%202%20%26%202%5C%5C%20%0A0%20%26%200%20%26%204%20%26%203%5C%5C%20%0A2%20%26%203%20%26%205%20%26%206%0A%5Cend%7Bpmatrix%7D%24">.
     
+## Урок 3. Линейные преобразования.  
+
+## Практическое задание к уроку 3.  
+__1.__ Найти собственные векторы и собственные значения для линейного оператора, заданного матрицей
+
+<img src="https://render.githubusercontent.com/render/math?math=%24A%3D%5Cbegin%7Bpmatrix%7D%0A-1%20%26%20-6%5C%5C%20%0A2%20%26%206%0A%5Cend%7Bpmatrix%7D%24">.
+
+__2.__ Дан оператор поворота на 180 градусов, задаваемый матрицей 
+
+<img src="https://render.githubusercontent.com/render/math?math=A%3D%5Cbegin%7Bpmatrix%7D%0A-1%20%26%200%5C%5C%20%0A0%20%26%20-1%0A%5Cend%7Bpmatrix%7D">.
+
+Показать, что __любой__ вектор является для него собственным.
+
+__3.__ Пусть линейный оператор задан матрицей
+
+<img src="https://render.githubusercontent.com/render/math?math=%24A%3D%5Cbegin%7Bpmatrix%7D%0A1%20%26%201%5C%5C%20%0A-1%20%26%203%0A%5Cend%7Bpmatrix%7D%24">.
+
+Установить, является ли вектор $x=(1,1)$ собственным вектором этого линейного оператора.
+
+__4.__ Пусть линейный оператор задан матрицей
+
+<img src="https://render.githubusercontent.com/render/math?math=%24A%3D%5Cbegin%7Bpmatrix%7D%0A0%20%26%203%20%26%200%5C%5C%20%0A3%20%26%200%20%26%200%5C%5C%0A0%20%26%200%20%26%203%0A%5Cend%7Bpmatrix%7D%24">.
+
+Установить, является ли вектор <img src="https://render.githubusercontent.com/render/math?math=%24x%3D(3%2C%20-3%2C%20-4)%24"> собственным вектором этого линейного оператора.
