@@ -110,4 +110,30 @@ __4.__ Пусть линейный оператор задан матрицей
 
 <img src="https://render.githubusercontent.com/render/math?math=%24A%3D%5Cbegin%7Bpmatrix%7D%0A0%20%26%203%20%26%200%5C%5C%20%0A3%20%26%200%20%26%200%5C%5C%0A0%20%26%200%20%26%203%0A%5Cend%7Bpmatrix%7D%24">.
 
-Установить, является ли вектор <img src="https://render.githubusercontent.com/render/math?math=%24x%3D(3%2C%20-3%2C%20-4)%24"> собственным вектором этого линейного оператора.
+Установить, является ли вектор <img src="https://render.githubusercontent.com/render/math?math=%24x%3D(3%2C%20-3%2C%20-4)%24"> собственным вектором этого линейного оператора.  
+
+## Урок 4. Системы линейных уравнений.  
+
+## Практическое задание к уроку 4. (Часть 1).  
+__1.__ Решить систему уравнений методом Гаусса:
+
+<img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bcases%7D%0Ax_%7B1%7D%2Bx_%7B2%7D-x_%7B3%7D-2x_%7B4%7D%3D0%20%5C%5C%0A2x_%7B1%7D%2Bx_%7B2%7D-x_%7B3%7D%2Bx_%7B4%7D%3D-2%20%5C%5C%0Ax_%7B1%7D%2Bx_%7B2%7D-3x_%7B3%7D%2Bx_%7B4%7D%3D4%0A%5Cend%7Bcases%7D%24">.
+
+__2.__ Проверить на совместность и выяснить, сколько решений будет иметь система линейных уравнений:
+
+   а)  <img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bcases%7D%0A3x_%7B1%7D-x_%7B2%7D%2Bx_%7B3%7D%3D4%20%5C%5C%0A2x_%7B1%7D-5x_%7B2%7D-3x_%7B3%7D%3D-17%20%5C%5C%0Ax_%7B1%7D%2Bx_%7B2%7D-x_%7B3%7D%3D0%0A%5Cend%7Bcases%7D%24">;
+    
+   б) <img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bcases%7D%0A2x_%7B1%7D-4x_%7B2%7D%2B6x_%7B3%7D%3D1%20%5C%5C%0Ax_%7B1%7D-2x_%7B2%7D%2B3x_%7B3%7D%3D-2%20%5C%5C%0A3x_%7B1%7D-6x_%7B2%7D%2B9x_%7B3%7D%3D5%0A%5Cend%7Bcases%7D%24">;
+    
+   в) <img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bcases%7D%0Ax_%7B1%7D%2B2x_%7B2%7D%2B5x_%7B3%7D%3D4%20%5C%5C%0A3x_%7B1%7D%2Bx_%7B2%7D-8x_%7B3%7D%3D-2%20%0A%5Cend%7Bcases%7D%24">.
+
+
+__3.__ Проверить на совместность и выяснить, сколько решений будет иметь система линейных уравнений, заданная расширенной матрицей
+
+<img src="https://render.githubusercontent.com/render/math?math=%24%5Ctilde%7BA%7D%3D%5Cbegin%7Bpmatrix%7D%0A%5Cleft.%5Cbegin%7Bmatrix%7D%0A1%20%26%203%20%26%20-2%20%26%204%5C%5C%20%0A0%20%26%205%20%26%200%20%26%201%5C%5C%20%0A0%20%26%200%20%26%203%20%26%200%5C%5C%20%0A0%20%26%200%20%26%200%20%26%202%0A%5Cend%7Bmatrix%7D%5Cright%7C%0A%5Cbegin%7Bmatrix%7D%0A3%5C%5C%20%0A2%5C%5C%0A4%5C%5C%0A1%0A%5Cend%7Bmatrix%7D%0A%5Cend%7Bpmatrix%7D%24">.
+
+__4.__ Дана система линейных уравнений, заданная расширенной матрицей
+
+<img src="https://render.githubusercontent.com/render/math?math=%24%5Ctilde%7BA%7D%3D%5Cbegin%7Bpmatrix%7D%0A%5Cleft.%5Cbegin%7Bmatrix%7D%0A1%20%26%202%20%26%203%5C%5C%20%0A4%20%26%205%20%26%206%5C%5C%20%0A7%20%26%208%20%26%209%0A%5Cend%7Bmatrix%7D%5Cright%7C%0A%5Cbegin%7Bmatrix%7D%0Aa%5C%5C%20%0Ab%5C%5C%0Ac%0A%5Cend%7Bmatrix%7D%0A%5Cend%7Bpmatrix%7D%24">.
+
+Найти соотношение между параметрами <img src="https://render.githubusercontent.com/render/math?math=a">, <img src="https://render.githubusercontent.com/render/math?math=b"> и <img src="https://render.githubusercontent.com/render/math?math=c">, при которых система является несовместной.
