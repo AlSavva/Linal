@@ -136,4 +136,27 @@ __4.__ Дана система линейных уравнений, заданн
 
 <img src="https://render.githubusercontent.com/render/math?math=%24%5Ctilde%7BA%7D%3D%5Cbegin%7Bpmatrix%7D%0A%5Cleft.%5Cbegin%7Bmatrix%7D%0A1%20%26%202%20%26%203%5C%5C%20%0A4%20%26%205%20%26%206%5C%5C%20%0A7%20%26%208%20%26%209%0A%5Cend%7Bmatrix%7D%5Cright%7C%0A%5Cbegin%7Bmatrix%7D%0Aa%5C%5C%20%0Ab%5C%5C%0Ac%0A%5Cend%7Bmatrix%7D%0A%5Cend%7Bpmatrix%7D%24">.
 
-Найти соотношение между параметрами <img src="https://render.githubusercontent.com/render/math?math=a">, <img src="https://render.githubusercontent.com/render/math?math=b"> и <img src="https://render.githubusercontent.com/render/math?math=c">, при которых система является несовместной.
+Найти соотношение между параметрами <img src="https://render.githubusercontent.com/render/math?math=a">, <img src="https://render.githubusercontent.com/render/math?math=b"> и <img src="https://render.githubusercontent.com/render/math?math=c">, при которых система является несовместной.  
+
+## Практическое задание к уроку 4. (Часть 2).  
+__1.__ Решить систему уравнений методом Крамера:
+
+   а) <img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bcases%7D%0Ax_%7B1%7D-2x_%7B2%7D%3D1%20%5C%5C%0A3x_%7B1%7D-4x_%7B2%7D%3D7%0A%5Cend%7Bcases%7D%24">;  
+    
+   б) <img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bcases%7D%0A2x_%7B1%7D-x_%7B2%7D%2B5x_%7B3%7D%3D10%20%5C%5C%0Ax_%7B1%7D%2Bx_%7B2%7D-3x_%7B3%7D%3D-2%20%5C%5C%0A2x_%7B1%7D%2B4x_%7B2%7D%2Bx_%7B3%7D%3D1%0A%5Cend%7Bcases%7D%24">.  
+
+__2*.__ Найти $L$-матрицу $LU$-разложения для матрицы коэффициентов:
+
+   а)<img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bpmatrix%7D%0A1%20%26%202%20%26%204%20%5C%5C%20%0A2%20%26%209%20%26%2012%20%5C%5C%20%0A3%20%26%2026%20%26%2030%0A%5Cend%7Bpmatrix%7D%24">;  
+    
+   б)<img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bpmatrix%7D%0A1%20%26%201%20%26%202%20%26%204%5C%5C%20%0A2%20%26%205%20%26%208%20%26%209%5C%5C%20%0A3%20%26%2018%20%26%2029%20%26%2018%5C%5C%0A4%20%26%2022%20%26%2053%20%26%2033%0A%5Cend%7Bpmatrix%7D%24">.  
+    
+__3*.__ Решить систему линейных уравнений методом $LU$-разложения
+
+<img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bcases%7D%0A2x_%7B1%7D%2Bx_%7B2%7D%2B3x_%7B3%7D%3D1%20%5C%5C%0A11x_%7B1%7D%2B7x_%7B2%7D%2B5x_%7B3%7D%3D-6%20%5C%5C%0A9x_%7B1%7D%2B8x_%7B2%7D%2B4x_%7B3%7D%3D-5%0A%5Cend%7Bcases%7D%24">.  
+
+__4*.__ Решить систему линейных уравнений методом Холецкого
+
+<img src="https://render.githubusercontent.com/render/math?math=%24%5Cbegin%7Bcases%7D%0A81x_%7B1%7D-45x_%7B2%7D%2B45x_%7B3%7D%3D531%20%5C%5C%0A-45x_%7B1%7D%2B50x_%7B2%7D-15x_%7B3%7D%3D-460%20%5C%5C%0A45x_%7B1%7D-15x_%7B2%7D%2B38x_%7B3%7D%3D193%0A%5Cend%7Bcases%7D%24">.  
+
+__5*.__ Написать на Python программу с реализацией одного из изученных алгоритмов решения СЛАУ.
